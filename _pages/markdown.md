@@ -1,3 +1,14 @@
+<pre style="word-wrap: break-word; white-space: pre-wrap;">---
+permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
+---
+
+
+
 <ul>
 <li><b>Keerthy Kusumam</b>, Enrique Sanchez Lozano and Georgios Tzimiropoulos. Unsupervised Face Manipulation via Hallucination. Accepted for publication at International
 Conference on Pattern Recognition (ICPR), 2020.
