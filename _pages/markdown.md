@@ -14,15 +14,18 @@ redirect_from:
 Conference on Pattern Recognition (ICPR), 2020.
 <p><a href="#">[PDF]</a></p>
 </li>
-<li>Keerthy Kusumam, Tom´aˇs Krajn´ık, Simon Pearson, Grzegorz Cielniak and Tom Duckett. Can you pick a broccoli? 3D vision based detection and localisation of broccoli heads
+<li>Jaiswal, Shashank, Michel Valstar,<b> Keerthy Kusumam</b>, and Chris Greenhalgh. "Virtual human questionnaire for analysis of depression, anxiety and personality." In Proceedings of the 19th ACM International Conference on Intelligent Virtual Agents, pp. 81-87. 2019.
+<p><a href="#">[PDF]</a></p>
+</li>
+<li><b>Keerthy Kusumam</b>, Tomas Krajnık, Simon Pearson, Grzegorz Cielniak and Tom Duckett. Can you pick a broccoli? 3D vision based detection and localisation of broccoli heads
 2 in the field. In International Conference on Intelligent Robots and Systems (IROS), 2016
 <p><a href="#">[PDF]</a></p>
 </li>
-<li>Keerthy Kusumam, Tom´aˇs Krajn´ık, Simon Pearson, Tom Duckett and Grzegorz Cielniak. 3D Vision based detection, localisation and sizing of broccoli heads in the field.
+<li><b>Keerthy Kusumam</b>, Tomas Krajnık, Simon Pearson, Tom Duckett and Grzegorz Cielniak. 3D Vision based detection, localisation and sizing of broccoli heads in the field.
 In Journal of Field Robotics, 2017.
 <p><a href="#">[PDF]</a></p>
 </li>
-<li>Tom´aˇs Krajn´ık, Pablo de Crist´oforis, Matias Nitche, Keerthy Kusumam, and Tom Duckett. Image features and seasons revisited. In European Conference on Mobile Robots
+<li>Tomas Krajnık, Pablo de Cristoforis, Matias Nitche, <b>Keerthy Kusumam</b>, and Tom Duckett. Image features and seasons revisited. In European Conference on Mobile Robots
 (ECMR), 2015.
 <p><a href="#">[PDF]</a></p>
 </li>
