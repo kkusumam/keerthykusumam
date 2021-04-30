@@ -1,4 +1,4 @@
-<pre style="word-wrap: break-word; white-space: pre-wrap;">---
+---
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
