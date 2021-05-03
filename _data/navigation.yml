@@ -1,11 +1,5 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /talks/
-
-  - title: "Publications"
+   - title: "Publications"
     url: /markdown/    
 
-  - title: "CV"
-    url: /cv/
-   
