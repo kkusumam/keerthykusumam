@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a final year PhD student in computer science at the University of Nottingham, affiliated to the Horizon CDT and <a href="#">Computer Vision Lab</a>. 
-I am primarily supervised by <a href="#">Prof Michel Valstar</a>. My supervision team also includes  <a href="#">Dr. Elvira Perez Vallejos</a>, <a href="#"> Prof Richard Morris</a> and  <a href="#">Dr. Yorgos Tzimiropoulos</a>. 
+I am primarily supervised by <a href="#">Dr. Yorgos Tzimiropoulos</a> and <a href="#">Prof Michel Valstar</a>. My supervision team also includes  <a href="#">Dr. Elvira Perez Vallejos</a>, <a href="#"> Prof Richard Morris</a>. 
 
 My PhD is about automatic assessment of mood for detecting markers of depression and anxiety, in videos collected under challenging, in-the-wild conditions. During my PhD I have worked on extensive topics in computer vision and machine learning including human pose estimation, face alignment, super-resolution, face and human body image synthesis and manipulation using GANs, domain adaptation and emotion recognition. 
 
